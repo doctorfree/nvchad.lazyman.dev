@@ -18,12 +18,12 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Starter # the main title
+title: NvChad # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: NvChad configurations in Lazyman # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Lazyman supported NvChad Neovim configurations
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -89,23 +89,24 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo-name>
-    repo_id: # The repository node id, find it with "gh api repos/${repo} | jq '.node_id'"
-    category: # The repo discussion category for comments, e.g. General
-    category_id: # This is the hardest thing to find. Use the following script:
-                 # gh api graphql -f query='
-                 # {
-                 #   repository(owner: "<gh-username>", name: "<repo-name>") {
-                 #     id
-                 #     name
-                 #     discussionCategories(first: 10) {
-                 #       nodes {
-                 #         id
-                 #         name
-                 #       }
-                 #     }
-                 #   }
-                 # }'
+    repo: doctorfree/nvchad.lazyman.dev # <gh-username>/<repo-name>
+    repo_id: R_kgDOKIyqRg
+    category: General
+    category_id:
+      DIC_kwDOKIyqRs4CYtI9
+      # gh api graphql -f query='
+      # {
+      #   repository(owner: "<gh-username>", name: "<repo-name>") {
+      #     id
+      #     name
+      #     discussionCategories(first: 10) {
+      #       nodes {
+      #         id
+      #         name
+      #       }
+      #     }
+      #   }
+      # }'
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
