@@ -10,6 +10,14 @@ post_style: page
 
 - [NvChad](https://nvchad.lazyman.dev/posts/NvChad)
   - `lazyman -c`
+- [Cpp](https://nvchad.lazyman.dev/posts/Cpp)
+  - `lazyman -L Cpp`
+- [Go](https://nvchad.lazyman.dev/posts/Go)
+  - `lazyman -L Go`
+- [Python](https://nvchad.lazyman.dev/posts/Python)
+  - `lazyman -L Python`
+- [Rust](https://nvchad.lazyman.dev/posts/Rust)
+  - `lazyman -L Rust`
 
 ## Install All Lazyman NvChad Configurations
 
