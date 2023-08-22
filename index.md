@@ -66,6 +66,7 @@ Read our overview and comparison of
 
 
 (Note: these are just 4-5 themes, NvChad has around 56 themes)
+
 </details>
 
 ## UI related plugins used
