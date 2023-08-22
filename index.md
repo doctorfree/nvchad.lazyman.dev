@@ -4,19 +4,17 @@ toc: false
 post_style: page
 ---
 
-<h2 style="text-align: center;">Lazyman Supported NvChad Neovim Configurations</h2>
-<p style="text-align: center;">
+## Lazyman Supported NvChad Neovim Configurations
+
 The following are [Lazyman](https://lazyman.dev) supported
 [NvChad](https://nvchad.com) based Neovim configurations:
-</p>
-<div align="center">
 
 | NvChad |        |        |        | Configurations |
 | :----- | :----: | :----: | :----: | -------------: |
 | [NvChad](https://nvchad.lazyman.dev/posts/NvChad) | [Cpp](https://nvchad.lazyman.dev/posts/Cpp) | [Go](https://nvchad.lazyman.dev/posts/Go) | [Python](https://nvchad.lazyman.dev/posts/Python) | [Rust](https://nvchad.lazyman.dev/posts/Rust) |
 
-  <h2 id="connect">Connect</h2>
-  <p align="center">
+<div align="left">
+  <p>
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"
       style="width:40px;height:40px"
