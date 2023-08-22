@@ -13,8 +13,8 @@ The following are [Lazyman](https://lazyman.dev) supported
 | :----- | :----: | :----: | :----: | -------------: |
 | [NvChad](https://nvchad.lazyman.dev/posts/NvChad) | [Cpp](https://nvchad.lazyman.dev/posts/Cpp) | [Go](https://nvchad.lazyman.dev/posts/Go) | [Python](https://nvchad.lazyman.dev/posts/Python) | [Rust](https://nvchad.lazyman.dev/posts/Rust) |
 
-<div align="left">
-  <p>
+<div align="center">
+  <p align="center">
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"
       style="width:40px;height:40px"
