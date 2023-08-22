@@ -14,7 +14,7 @@ The following are [Lazyman](https://lazyman.dev) supported
 | :------ | :-------: | :----: | :----: | ------: |
 | [NvChad](https://nvchad.lazyman.dev/posts/NvChad) | [Cpp](https://nvchad.lazyman.dev/posts/Cpp) | [Go](https://nvchad.lazyman.dev/posts/Go) | [Python](https://nvchad.lazyman.dev/posts/Python) | [Rust](https://nvchad.lazyman.dev/posts/Rust) |
 
-Install all with the command: `lazyman -i nvchad`
+Install all Lazyman supported NvChad configurations with the command: `lazyman -i nvchad`
 
 ## What is NvChad
 
