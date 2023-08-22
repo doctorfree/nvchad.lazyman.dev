@@ -1,9 +1,12 @@
 ---
-icon: fas fa-info-circle
+layout: post
+icon: fas fa-crosshairs
 order: 4
+toc: true
+post_style: page
 ---
 
-## Showcase
+## NvChad Showcase
 
 <img alt="nvdash" src="https://nvchad.com/features/nvdash.webp">
 <img alt="banner" src="https://nvchad.com/banner.webp">
@@ -11,7 +14,7 @@ order: 4
 <img alt="onedark" src="https://nvchad.com/screenshots/onedark.webp">
 <img alt="rxyhn1" src="https://nvchad.com/screenshots/rxyhn1.webp">
 
-### Theme Showcase
+### NvChad Theme Showcase
 
 <img alt="four" src="https://nvchad.com/screenshots/four_Themes.webp">
 <img alt="radium1" src="https://nvchad.com/screenshots/radium1.webp">
