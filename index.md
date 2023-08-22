@@ -4,6 +4,17 @@ toc: false
 post_style: page
 ---
 
+## Lazyman Supported NvChad Neovim Configurations
+
+The following are [Lazyman](https://lazyman.dev) supported
+[NvChad](https://nvchad.com) based Neovim configurations:
+
+| Lazyman | Supported | NvChad | Neovim | Configs |
+| :------ | :-------: | :----: | :----: | ------: |
+| [NvChad](https://nvchad.lazyman.dev/posts/NvChad) | [Cpp](https://nvchad.lazyman.dev/posts/Cpp) | [Go](https://nvchad.lazyman.dev/posts/Go) | [Python](https://nvchad.lazyman.dev/posts/Python) | [Rust](https://nvchad.lazyman.dev/posts/Rust) |
+
+Install all with the command: `lazyman -i nvchad`
+
 ## What is NvChad
 
 [NvChad](https://nvchad.com) is one of the most popular Neovim "distributions"
@@ -27,17 +38,6 @@ Features that distinguish NvChad include:
 
 Read our overview and comparison of
 [Neovim configuration distributions](https://lazyman.dev/posts/Configuration-Distributions).
-
-## Lazyman Supported NvChad Neovim Configurations
-
-The following are [Lazyman](https://lazyman.dev) supported
-[NvChad](https://nvchad.com) based Neovim configurations:
-
-| Lazyman | Supported | NvChad | Neovim | Configs |
-| :------ | :-------: | :----: | :----: | ------: |
-| [NvChad](https://nvchad.lazyman.dev/posts/NvChad) | [Cpp](https://nvchad.lazyman.dev/posts/Cpp) | [Go](https://nvchad.lazyman.dev/posts/Go) | [Python](https://nvchad.lazyman.dev/posts/Python) | [Rust](https://nvchad.lazyman.dev/posts/Rust) |
-
-Install all with the command: `lazyman -i nvchad`
 
 <div>
   <p>
