@@ -1,16 +1,26 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
-order: 9
+order: 4
 ---
 
-[Lazyman](https://lazyman.dev) provides command line and menus to
-manage multiple Neovim configurations. Several of these use the
-[NvChad](https://nvchad.com/) configuration framework. This website provides
-details on each of the NvChad based Lazyman supported Neovim configurations.
+## Showcase
+
+<img alt="nvdash" src="https://nvchad.com/features/nvdash.webp">
+<img alt="banner" src="https://nvchad.com/banner.webp">
+
+<img alt="onedark" src="https://nvchad.com/screenshots/onedark.webp">
+<img alt="rxyhn1" src="https://nvchad.com/screenshots/rxyhn1.webp">
+
+### Theme Showcase
+
+<img alt="four" src="https://nvchad.com/screenshots/four_Themes.webp">
+<img alt="radium1" src="https://nvchad.com/screenshots/radium1.webp">
+<img alt="radium2" src="https://nvchad.com/screenshots/radium2.webp">
+<img alt="radium3" src="https://nvchad.com/screenshots/radium3.webp">
+
+**Note:** these are just 4-5 themes, NvChad has around 56 themes
 
 <div align="center">
-  <h2 id="connect">Connect</h2>
   <p align="center">
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"

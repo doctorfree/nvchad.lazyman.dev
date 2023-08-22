@@ -49,25 +49,7 @@ Read our overview and comparison of
 
 ## Showcase
 
-<img src="https://nvchad.com/features/nvdash.webp">
-<img src="https://nvchad.com/banner.webp">
-
-<img src="https://nvchad.com/screenshots/onedark.webp">
-<img src="https://nvchad.com/screenshots/rxyhn1.webp">
-
-### Theme Showcase
-
-<details><summary> <b>Images (Click to expand!)</b></summary>
-
-![4 themes](https://nvchad.com/screenshots/four_Themes.webp)
-![radium 1](https://nvchad.com/screenshots/radium1.webp)
-![radium 2](https://nvchad.com/screenshots/radium2.webp)
-![radium 3](https://nvchad.com/screenshots/radium3.webp)
-
-
-(Note: these are just 4-5 themes, NvChad has around 56 themes)
-
-</details>
+See the [Showcase section](https://nvchad.lazyman.dev/showcase) for screenshots.
 
 ## UI related plugins used
 
