@@ -1,6 +1,8 @@
 ---
 layout: post
+title: NvChad Configurations
 toc: true
+post_style: page
 ---
 
 ## Lazyman Supported NvChad Neovim Configurations
