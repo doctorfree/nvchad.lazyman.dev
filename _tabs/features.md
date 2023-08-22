@@ -108,7 +108,7 @@ for the latest on current features of NvChad based Neovim configurations.
 
 ### Nvim-cmp
 
-- [`nvim-cmp`](A completion plugin for neovim coded in Lua.) is a completion plugin for neovim coded in Lua.
+- `nvim-cmp` (A completion plugin for neovim coded in Lua.) is a completion plugin for neovim coded in Lua.
 - Below are some cmp styles in nvchad 
 
 ![nvim-cmp](https://nvchad.com/features/cmp.webp)

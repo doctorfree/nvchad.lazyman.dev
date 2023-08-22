@@ -21,7 +21,9 @@ post_style: page
 <img alt="radium2" src="https://nvchad.com/screenshots/radium2.webp">
 <img alt="radium3" src="https://nvchad.com/screenshots/radium3.webp">
 
-**Note:** these are just 4-5 themes, NvChad has around 56 themes
+**Note:** these are just 4-5 themes, NvChad has around 56 themes.
+
+[Explore NvChad Themes](https://nvchad.com/themes).
 
 <div align="center">
   <p align="center">
