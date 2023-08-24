@@ -8,7 +8,8 @@ post_style: page
 ## Lazyman Supported NvChad Neovim Configurations
 
 The following are [Lazyman](https://lazyman.dev) supported
-[NvChad](https://nvchad.com) based Neovim configurations:
+[NvChad](https://nvchad.com){:target="_blank"}{:rel="noopener noreferrer"}
+based Neovim configurations:
 
 | Lazyman | Supported | NvChad | Neovim | Configs |
 | :------ | :-------: | :----: | :----: | ------: |
@@ -18,7 +19,8 @@ Install all Lazyman supported NvChad configurations with the command: `lazyman -
 
 ## What is NvChad
 
-[NvChad](https://nvchad.com) is one of the most popular Neovim "distributions"
+[NvChad](https://nvchad.com){:target="_blank"}{:rel="noopener noreferrer"}
+is one of the most popular Neovim "distributions"
 along with [LazyVim](https://lazyvim.lazyman.dev),
 [LunarVim](https://lunarvim.lazyman.dev), and
 [AstroNvim](https://astronvim.lazyman.dev). These aren't really distributions,
@@ -69,14 +71,14 @@ A fuzzy file finder, picker, sorter, previewer and much more:
 
 <h3> Their own statusline written from scratch  </h3>
 
-[NvChad UI](https://github.com/NvChad/ui)
+[NvChad UI](https://github.com/NvChad/ui){:target="_blank"}{:rel="noopener noreferrer"}
 
 <kbd><img src="https://nvchad.com/features/statuslines.webp"></kbd>
 
 <h3> Tabufline (their own pertab bufferline) </h3>
 
 <kbd><img src="https://nvchad.com/features/tabufline.webp"></kbd>
-- Here's a [video](https://www.youtube.com/watch?v=V_9iJ96U_k8&ab_channel=siduck) that showcases it.
+- Here's a [video](https://www.youtube.com/watch?v=V_9iJ96U_k8&ab_channel=siduck){:target="_blank"}{:rel="noopener noreferrer"} that showcases it.
 
 <h3> NvCheatsheet ( their UI Plugin ) </h3>
 <kbd> <img src="https://nvchad.com/features/nvcheatsheet.webp"/></kbd>
@@ -85,21 +87,21 @@ A fuzzy file finder, picker, sorter, previewer and much more:
 
 ## Plugins list
 
-- Many beautiful themes, theme toggler by their [base46 plugin](https://github.com/NvChad/base46)
-- Inbuilt terminal toggling & management with [Nvterm](https://github.com/NvChad/nvterm)
-- NvChad updater, hide & unhide terminal buffers with [NvChad extensions](https://github.com/NvChad/extensions)
-- Lightweight & performant ui plugin with [NvChad UI](https://github.com/NvChad/ui) It provides statusline modules, tabufline ( tabs + buffer manager) , beautiful cheatsheets and much more!
-- File navigation with [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
-- Beautiful and configurable icons with [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
-- Git diffs and more with [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) 
-- NeoVim Lsp configuration with [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) and [mason.nvim](https://github.com/williamboman/mason.nvim)
-- Autocompletion with [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-- File searching, previewing image and text files and more with [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
-- Syntax highlighting with [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-- Autoclosing braces and html tags with [nvim-autopairs](https://github.com/windwp/nvim-autopairs)
-- Indentlines with [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
-- Useful snippets with [friendly snippets](https://github.com/rafamadriz/friendly-snippets) + [LuaSnip](https://github.com/L3MON4D3/LuaSnip).
-- Popup mappings keysheet [whichkey.nvim](https://github.com/folke/which-key.nvim)
+- Many beautiful themes, theme toggler by their [base46 plugin](https://github.com/NvChad/base46){:target="_blank"}{:rel="noopener noreferrer"}
+- Inbuilt terminal toggling & management with [Nvterm](https://github.com/NvChad/nvterm){:target="_blank"}{:rel="noopener noreferrer"}
+- NvChad updater, hide & unhide terminal buffers with [NvChad extensions](https://github.com/NvChad/extensions){:target="_blank"}{:rel="noopener noreferrer"}
+- Lightweight & performant ui plugin with [NvChad UI](https://github.com/NvChad/ui){:target="_blank"}{:rel="noopener noreferrer"} It provides statusline modules, tabufline ( tabs + buffer manager) , beautiful cheatsheets and much more!
+- File navigation with [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua){:target="_blank"}{:rel="noopener noreferrer"}
+- Beautiful and configurable icons with [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons){:target="_blank"}{:rel="noopener noreferrer"}
+- Git diffs and more with [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim){:target="_blank"}{:rel="noopener noreferrer"}
+- NeoVim Lsp configuration with [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig){:target="_blank"}{:rel="noopener noreferrer"} and [mason.nvim](https://github.com/williamboman/mason.nvim){:target="_blank"}{:rel="noopener noreferrer"}
+- Autocompletion with [nvim-cmp](https://github.com/hrsh7th/nvim-cmp){:target="_blank"}{:rel="noopener noreferrer"}
+- File searching, previewing image and text files and more with [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim){:target="_blank"}{:rel="noopener noreferrer"}
+- Syntax highlighting with [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter){:target="_blank"}{:rel="noopener noreferrer"}
+- Autoclosing braces and html tags with [nvim-autopairs](https://github.com/windwp/nvim-autopairs){:target="_blank"}{:rel="noopener noreferrer"}
+- Indentlines with [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim){:target="_blank"}{:rel="noopener noreferrer"}
+- Useful snippets with [friendly snippets](https://github.com/rafamadriz/friendly-snippets){:target="_blank"}{:rel="noopener noreferrer"} plus [LuaSnip](https://github.com/L3MON4D3/LuaSnip){:target="_blank"}{:rel="noopener noreferrer"}
+- Popup mappings keysheet [whichkey.nvim](https://github.com/folke/which-key.nvim){:target="_blank"}{:rel="noopener noreferrer"}
 
 <div align="center">
   <p align="center">

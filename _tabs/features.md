@@ -8,7 +8,7 @@ post_style: page
 
 ## NvChad Features
 
-See [https://nvchad.com/docs/features](https://nvchad.com/docs/features)
+See [https://nvchad.com/docs/features](https://nvchad.com/docs/features){:target="_blank"}{:rel="noopener noreferrer"}
 for the latest on current features of NvChad based Neovim configurations.
 
 ## Inbuilt features
@@ -94,14 +94,14 @@ for the latest on current features of NvChad based Neovim configurations.
 
 ### Telescope.nvim
 
-- [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) is a highly extendable fuzzy finder over lists. Built on the latest awesome features from neovim core. Telescope is centered around modularity, allowing for easy customization.
+- [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim){:target="_blank"}{:rel="noopener noreferrer"} is a highly extendable fuzzy finder over lists. Built on the latest awesome features from neovim core. Telescope is centered around modularity, allowing for easy customization.
 - Below are 2 styles of telescope in nvchad ( bordered and borderless )
 
 ![telescope](https://nvchad.com/features/telescope.webp)
 
 ### Nvim-tree.lua
 
-- [`nvim-tree.lua`](https://github.com/kyazdani42/nvim-tree.lua) is a file explorer tree for Neovim written in Lua.
+- [`nvim-tree.lua`](https://github.com/kyazdani42/nvim-tree.lua){:target="_blank"}{:rel="noopener noreferrer"} is a file explorer tree for Neovim written in Lua.
 
 ![nvim tree](https://raw.githubusercontent.com/siduck/dotfiles/all/rice%20flex/nvimtree.png)
 
@@ -117,19 +117,19 @@ for the latest on current features of NvChad based Neovim configurations.
 
 ### Auto-completion & LSP
 
-- [`nvim-lspconfig`](https://github.com/neovim/nvim-lspconfig) is used along with cmp for completion and [`luasnip`](https://github.com/L3MON4D3/LuaSnip)  + [`friendly-snippets`](https://github.com/rafamadriz/friendly-snippets) for snippet completion! 
+- [`nvim-lspconfig`](https://github.com/neovim/nvim-lspconfig){:target="_blank"}{:rel="noopener noreferrer"} is used along with cmp for completion and [`luasnip`](https://github.com/L3MON4D3/LuaSnip){:target="_blank"}{:rel="noopener noreferrer"}  + [`friendly-snippets`](https://github.com/rafamadriz/friendly-snippets){:target="_blank"}{:rel="noopener noreferrer"} for snippet completion! 
 <div class="iframe-container">
 <iframe src="https://www.youtube.com/embed/oMzMDXA-VO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allow='fullscreen;'></iframe>
 </div>
 
 <br/>
 
-- [`lazy.nvim`](https://github.com/folke/lazy.nvim) - A modern plugin manager for Neovim
-- [`whichkey.nvim`](https://github.com/folke/which-key.nvim) - Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
-- [`nvim-colorizer.lua`](https://github.com/NvChad/nvim-colorizer.lua) - Fastest Neovim colorizer, hex colors, hsl codes and much more.
-- [`nvim-treesitter`](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer, we use it for syntax highlighting & auto-indenting. 
-- [`blankline`](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim i.e indentline plugin.
-- [`gitsigns.nvim`](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
-- [`nvim-autopairs`](https://github.com/windwp/nvim-autopairs)
-- [`comment.nvim`](https://github.com/numToStr/Comment.nvim) - Commenting plugin
-- [`mason.nvim`](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [`lazy.nvim`](https://github.com/folke/lazy.nvim){:target="_blank"}{:rel="noopener noreferrer"} - A modern plugin manager for Neovim
+- [`whichkey.nvim`](https://github.com/folke/which-key.nvim){:target="_blank"}{:rel="noopener noreferrer"} - Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [`nvim-colorizer.lua`](https://github.com/NvChad/nvim-colorizer.lua){:target="_blank"}{:rel="noopener noreferrer"} - Fastest Neovim colorizer, hex colors, hsl codes and much more.
+- [`nvim-treesitter`](https://github.com/nvim-treesitter/nvim-treesitter){:target="_blank"}{:rel="noopener noreferrer"} - Nvim Treesitter configurations and abstraction layer, we use it for syntax highlighting & auto-indenting. 
+- [`blankline`](https://github.com/lukas-reineke/indent-blankline.nvim){:target="_blank"}{:rel="noopener noreferrer"} - Indent guides for Neovim i.e indentline plugin.
+- [`gitsigns.nvim`](https://github.com/lewis6991/gitsigns.nvim){:target="_blank"}{:rel="noopener noreferrer"} - Git integration for buffers
+- [`nvim-autopairs`](https://github.com/windwp/nvim-autopairs){:target="_blank"}{:rel="noopener noreferrer"}
+- [`comment.nvim`](https://github.com/numToStr/Comment.nvim){:target="_blank"}{:rel="noopener noreferrer"} - Commenting plugin
+- [`mason.nvim`](https://github.com/williamboman/mason.nvim){:target="_blank"}{:rel="noopener noreferrer"} - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.

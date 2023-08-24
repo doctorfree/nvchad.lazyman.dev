@@ -23,7 +23,7 @@ post_style: page
 
 **Note:** these are just 4-5 themes, NvChad has around 56 themes.
 
-[Explore NvChad Themes](https://nvchad.com/themes).
+[Explore NvChad Themes](https://nvchad.com/themes){:target="_blank"}{:rel="noopener noreferrer"}.
 
 <div align="center">
   <p align="center">

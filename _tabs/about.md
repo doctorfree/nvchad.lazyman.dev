@@ -6,8 +6,9 @@ order: 9
 
 [Lazyman](https://lazyman.dev) provides command line and menus to
 manage multiple Neovim configurations. Several of these use the
-[NvChad](https://nvchad.com/) configuration framework. This website provides
-details on each of the NvChad based Lazyman supported Neovim configurations.
+[NvChad](https://nvchad.com/){:target="_blank"}{:rel="noopener noreferrer"}
+configuration framework. This website provides details on each of the NvChad
+based Lazyman supported Neovim configurations.
 
 <div align="center">
   <h2 id="connect">Connect</h2>
