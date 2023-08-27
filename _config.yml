@@ -26,7 +26,10 @@ description: >- # used by seo meta and the atom feed
   Lazyman supported NvChad Neovim configurations
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://nvchad.lazyman.dev"
+
+plugins:
+  - jekyll-sitemap
 
 github:
   username: doctorfree # change to your github username
